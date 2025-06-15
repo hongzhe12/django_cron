@@ -12,6 +12,20 @@
 - **实时日志查看**：支持查看系统crontab日志和任务执行日志
 - **表达式解析**：自动将crontab表达式转换为中文描述
 
+![QQ_1749995288680](https://github.com/user-attachments/assets/2660b87b-cc43-4412-9438-2a746bf45dea)
+
+![QQ_1749995368808](https://github.com/user-attachments/assets/9019a189-dc0c-408c-84db-893e1f15c4e7)
+
+![QQ_1749995380094](https://github.com/user-attachments/assets/b099c2d4-db48-4adf-8fad-9df96e58fa38)
+
+![QQ_1749995392040](https://github.com/user-attachments/assets/41f4a807-d083-46d7-a03c-f102d308b4b8)
+
+![QQ_1749995417424](https://github.com/user-attachments/assets/c0089db5-7de7-487f-9b62-c5584b86227d)
+
+
+
+
+
 ## 安装与配置
 
 ### 环境要求
