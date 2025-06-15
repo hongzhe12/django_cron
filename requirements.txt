@@ -1,0 +1,2 @@
+cron-descriptor==1.4.5
+django>=4.0
